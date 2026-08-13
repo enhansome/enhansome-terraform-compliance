@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-10T12:08:49Z",
+            "last_commit": "2026-08-13T12:53:36Z",
             "owner": "filipi86",
             "repo": "drogonsec",
-            "stars": 172
+            "stars": 171
           }
         },
         {
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T15:55:25Z",
+            "last_commit": "2026-08-13T13:02:47Z",
             "owner": "SonarSource",
             "repo": "sonar-iac",
             "stars": 57
@@ -92,7 +92,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:22:18Z",
+            "last_commit": "2026-08-13T14:18:09Z",
             "owner": "StackGuardian",
             "repo": "tirith",
             "stars": 167
@@ -234,7 +234,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:37:38Z",
+            "last_commit": "2026-08-13T11:52:53Z",
             "owner": "oscal-compass",
             "repo": "compliance-trestle",
             "stars": 269
@@ -595,7 +595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:24:16.824Z",
+    "last_updated": "2026-08-13T14:48:15.630Z",
     "original_repository": "antonbabenko/awesome-terraform-compliance",
     "original_repository_sha": "760e4e417870672952854872a812108cae4d0b9a",
     "enhanced_repository": "enhansome/enhansome-terraform-compliance",
