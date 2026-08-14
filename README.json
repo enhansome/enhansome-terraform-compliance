@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T12:53:36Z",
+            "last_commit": "2026-08-14T10:09:46Z",
             "owner": "filipi86",
             "repo": "drogonsec",
-            "stars": 171
+            "stars": 172
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T13:02:47Z",
+            "last_commit": "2026-08-14T14:00:47Z",
             "owner": "SonarSource",
             "repo": "sonar-iac",
-            "stars": 57
+            "stars": 58
           }
         }
       ],
@@ -78,7 +78,7 @@
           "repo_info": {
             "archived": false,
             "language": "HCL",
-            "last_commit": "2026-08-12T14:37:22Z",
+            "last_commit": "2026-08-14T14:18:04Z",
             "owner": "JamesWoolfenden",
             "repo": "pike",
             "stars": 927
@@ -92,7 +92,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T14:18:09Z",
+            "last_commit": "2026-08-14T08:39:14Z",
             "owner": "StackGuardian",
             "repo": "tirith",
             "stars": 167
@@ -234,7 +234,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T11:52:53Z",
+            "last_commit": "2026-08-14T09:29:01Z",
             "owner": "oscal-compass",
             "repo": "compliance-trestle",
             "stars": 269
@@ -299,7 +299,7 @@
             "last_commit": "2026-08-10T11:28:51Z",
             "owner": "Azure",
             "repo": "mapotf",
-            "stars": 56
+            "stars": 57
           }
         }
       ],
@@ -330,7 +330,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-10T19:00:27Z",
+            "last_commit": "2026-08-13T22:58:25Z",
             "owner": "cresta",
             "repo": "atlantis-drift-detection",
             "stars": 116
@@ -420,7 +420,7 @@
             "last_commit": "2026-07-16T07:44:39Z",
             "owner": "leg100",
             "repo": "otf",
-            "stars": 699
+            "stars": 700
           }
         },
         {
@@ -431,7 +431,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T11:38:04Z",
+            "last_commit": "2026-08-13T17:15:05Z",
             "owner": "mattrobinsonsre",
             "repo": "terrapod",
             "stars": 252
@@ -451,10 +451,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-12T23:55:28Z",
+            "last_commit": "2026-08-14T04:28:26Z",
             "owner": "antonbabenko",
             "repo": "pre-commit-terraform",
-            "stars": 3755
+            "stars": 3756
           }
         },
         {
@@ -521,7 +521,7 @@
             "last_commit": "2026-07-27T07:32:27Z",
             "owner": "shuaibiyy",
             "repo": "awesome-tf",
-            "stars": 6565
+            "stars": 6567
           }
         },
         {
@@ -595,7 +595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:48:15.630Z",
+    "last_updated": "2026-08-14T14:42:49.354Z",
     "original_repository": "antonbabenko/awesome-terraform-compliance",
     "original_repository_sha": "760e4e417870672952854872a812108cae4d0b9a",
     "enhanced_repository": "enhansome/enhansome-terraform-compliance",
