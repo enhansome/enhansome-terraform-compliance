@@ -50,10 +50,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T08:52:17Z",
+            "last_commit": "2026-08-15T17:38:13Z",
             "owner": "terraform-linters",
             "repo": "tflint",
-            "stars": 5790
+            "stars": 5789
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-14T09:29:01Z",
             "owner": "oscal-compass",
             "repo": "compliance-trestle",
-            "stars": 269
+            "stars": 271
           }
         },
         {
@@ -330,7 +330,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T22:58:25Z",
+            "last_commit": "2026-08-15T18:58:21Z",
             "owner": "cresta",
             "repo": "atlantis-drift-detection",
             "stars": 116
@@ -431,7 +431,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T13:25:57Z",
+            "last_commit": "2026-08-15T17:08:42Z",
             "owner": "mattrobinsonsre",
             "repo": "terrapod",
             "stars": 252
@@ -451,7 +451,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-14T04:28:26Z",
+            "last_commit": "2026-08-15T22:13:55Z",
             "owner": "antonbabenko",
             "repo": "pre-commit-terraform",
             "stars": 3756
@@ -535,7 +535,7 @@
             "last_commit": "2026-03-17T02:09:12Z",
             "owner": "4ndersonLin",
             "repo": "awesome-cloud-security",
-            "stars": 2476
+            "stars": 2477
           }
         },
         {
@@ -595,7 +595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:08:37.277Z",
+    "last_updated": "2026-08-16T14:10:02.070Z",
     "original_repository": "antonbabenko/awesome-terraform-compliance",
     "original_repository_sha": "760e4e417870672952854872a812108cae4d0b9a",
     "enhanced_repository": "enhansome/enhansome-terraform-compliance",
