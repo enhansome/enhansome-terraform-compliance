@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T18:59:47Z",
+            "last_commit": "2026-08-17T13:36:14Z",
             "owner": "filipi86",
             "repo": "drogonsec",
             "stars": 173
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T14:00:47Z",
+            "last_commit": "2026-08-17T09:55:38Z",
             "owner": "SonarSource",
             "repo": "sonar-iac",
             "stars": 58
@@ -53,7 +53,7 @@
             "last_commit": "2026-08-15T17:38:13Z",
             "owner": "terraform-linters",
             "repo": "tflint",
-            "stars": 5789
+            "stars": 5790
           }
         },
         {
@@ -78,7 +78,7 @@
           "repo_info": {
             "archived": false,
             "language": "HCL",
-            "last_commit": "2026-08-14T19:01:53Z",
+            "last_commit": "2026-08-17T07:32:56Z",
             "owner": "JamesWoolfenden",
             "repo": "pike",
             "stars": 927
@@ -234,7 +234,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T09:29:01Z",
+            "last_commit": "2026-08-17T08:19:12Z",
             "owner": "oscal-compass",
             "repo": "compliance-trestle",
             "stars": 271
@@ -431,7 +431,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T17:08:42Z",
+            "last_commit": "2026-08-17T05:38:42Z",
             "owner": "mattrobinsonsre",
             "repo": "terrapod",
             "stars": 252
@@ -454,7 +454,7 @@
             "last_commit": "2026-08-15T22:13:55Z",
             "owner": "antonbabenko",
             "repo": "pre-commit-terraform",
-            "stars": 3756
+            "stars": 3757
           }
         },
         {
@@ -521,7 +521,7 @@
             "last_commit": "2026-07-27T07:32:27Z",
             "owner": "shuaibiyy",
             "repo": "awesome-tf",
-            "stars": 6568
+            "stars": 6569
           }
         },
         {
@@ -549,7 +549,7 @@
             "last_commit": "2024-08-02T12:52:41Z",
             "owner": "jakob-pennington",
             "repo": "awesome-devsecops",
-            "stars": 1711
+            "stars": 1712
           }
         },
         {
@@ -560,10 +560,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-06-28T16:12:45Z",
+            "last_commit": "2026-08-17T11:54:34Z",
             "owner": "open-policy-agent",
             "repo": "awesome-opa",
-            "stars": 898
+            "stars": 899
           }
         },
         {
@@ -595,7 +595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:10:02.070Z",
+    "last_updated": "2026-08-17T14:13:40.872Z",
     "original_repository": "antonbabenko/awesome-terraform-compliance",
     "original_repository_sha": "760e4e417870672952854872a812108cae4d0b9a",
     "enhanced_repository": "enhansome/enhansome-terraform-compliance",
