@@ -465,7 +465,7 @@
             "archived": false,
             "id": 1168601310,
             "language": "Python",
-            "last_commit": "2026-08-19T09:47:38Z",
+            "last_commit": "2026-08-19T14:13:15Z",
             "owner": "mattrobinsonsre",
             "repo": "terrapod",
             "stars": 252
@@ -623,7 +623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:53:18.779Z",
+    "last_updated": "2026-08-19T14:19:54.944Z",
     "original_repository": "antonbabenko/awesome-terraform-compliance",
     "original_repository_id": 1194389960,
     "original_repository_sha": "760e4e417870672952854872a812108cae4d0b9a",
