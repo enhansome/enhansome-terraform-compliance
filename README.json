@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 71487396,
                 "language": "Go",
-                "last_commit": "2026-08-15T17:38:13Z",
+                "last_commit": "2026-08-22T17:38:42Z",
                 "owner": "terraform-linters",
                 "repo": "tflint",
                 "stars": 5794
@@ -302,7 +302,7 @@
                 "last_commit": "2026-08-09T04:59:09Z",
                 "owner": "bridgecrewio",
                 "repo": "yor",
-                "stars": 932
+                "stars": 933
               }
             },
             {
@@ -317,7 +317,7 @@
                 "last_commit": "2026-08-21T15:23:27Z",
                 "owner": "Azure",
                 "repo": "mapotf",
-                "stars": 59
+                "stars": 60
               }
             }
           ],
@@ -369,7 +369,7 @@
                 "last_commit": "2026-04-23T09:36:03Z",
                 "owner": "drifthoundhq",
                 "repo": "drifthound",
-                "stars": 70
+                "stars": 71
               }
             },
             {
@@ -489,7 +489,7 @@
             "last_commit": "2026-08-21T15:15:20Z",
             "owner": "antonbabenko",
             "repo": "pre-commit-terraform",
-            "stars": 3758
+            "stars": 3757
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2026-07-27T07:32:27Z",
             "owner": "shuaibiyy",
             "repo": "awesome-tf",
-            "stars": 6576
+            "stars": 6579
           }
         },
         {
@@ -570,7 +570,7 @@
             "last_commit": "2026-03-17T02:09:12Z",
             "owner": "4ndersonLin",
             "repo": "awesome-cloud-security",
-            "stars": 2480
+            "stars": 2481
           }
         },
         {
@@ -623,7 +623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:07:13.597Z",
+    "last_updated": "2026-08-23T14:10:16.195Z",
     "original_repository": "antonbabenko/awesome-terraform-compliance",
     "original_repository_id": 1194389960,
     "original_repository_sha": "760e4e417870672952854872a812108cae4d0b9a",
