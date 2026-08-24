@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 271888852,
                 "language": "Rust",
-                "last_commit": "2026-08-21T21:16:41Z",
+                "last_commit": "2026-08-24T15:06:57Z",
                 "owner": "aws-cloudformation",
                 "repo": "cloudformation-guard",
                 "stars": 1385
@@ -285,7 +285,7 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:19:02Z",
+                "last_commit": "2026-08-24T14:49:36Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
                 "stars": 14666
@@ -575,7 +575,7 @@
             "archived": false,
             "id": 1168601310,
             "language": "Python",
-            "last_commit": "2026-08-24T14:26:01Z",
+            "last_commit": "2026-08-24T15:04:08Z",
             "owner": "mattrobinsonsre",
             "repo": "terrapod",
             "stars": 253
@@ -733,7 +733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:37:33.159Z",
+    "last_updated": "2026-08-24T15:07:05.138Z",
     "original_repository": "antonbabenko/awesome-terraform-compliance",
     "original_repository_id": 1194389960,
     "original_repository_sha": "760e4e417870672952854872a812108cae4d0b9a",
