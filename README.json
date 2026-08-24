@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 1166539042,
                 "language": "Go",
-                "last_commit": "2026-08-17T18:08:06Z",
+                "last_commit": "2026-08-24T12:07:57Z",
                 "owner": "filipi86",
                 "repo": "drogonsec",
                 "stars": 174
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 366089286,
                 "language": "Java",
-                "last_commit": "2026-08-21T17:29:18Z",
+                "last_commit": "2026-08-24T11:51:40Z",
                 "owner": "SonarSource",
                 "repo": "sonar-iac",
                 "stars": 58
@@ -81,7 +81,7 @@
                 "archived": false,
                 "id": 499752618,
                 "language": "HCL",
-                "last_commit": "2026-08-21T18:44:54Z",
+                "last_commit": "2026-08-24T09:49:31Z",
                 "owner": "JamesWoolfenden",
                 "repo": "pike",
                 "stars": 926
@@ -96,7 +96,7 @@
                 "archived": false,
                 "id": 360277156,
                 "language": "Python",
-                "last_commit": "2026-08-18T12:09:00Z",
+                "last_commit": "2026-08-24T11:18:54Z",
                 "owner": "StackGuardian",
                 "repo": "tirith",
                 "stars": 167
@@ -154,6 +154,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "terraform-aws-secure-baseline",
+              "description": "Terraform module to configure an AWS account with the secure baseline recommended by CIS Amazon Web Services Foundations Benchmark and AWS Foundational Security Best Practices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121206877,
+                "language": "HCL",
+                "last_commit": "2026-07-08T09:36:36Z",
+                "owner": "nozaq",
+                "repo": "terraform-aws-secure-baseline",
+                "stars": 1199
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AWS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Azure CAF Terraform",
+              "description": "Cloud Adoption Framework landing zone modules with built-in governance and compliance patterns.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282118017,
+                "language": "HCL",
+                "last_commit": "2025-03-02T08:10:58Z",
+                "owner": "aztfmod",
+                "repo": "terraform-azurerm-caf",
+                "stars": 587
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Azure"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Secure Cloud Foundation",
               "description": "Protected B/Medium/Medium GCP landing zone with Canadian government compliance patterns. 🏛️",
               "children": [],
@@ -176,7 +220,7 @@
                 "archived": false,
                 "id": 1110617328,
                 "language": "HCL",
-                "last_commit": "2026-08-10T13:37:42Z",
+                "last_commit": "2026-08-24T14:04:42Z",
                 "owner": "GoogleCloudPlatform",
                 "repo": "gcp-hardening-toolkit",
                 "stars": 41
@@ -207,7 +251,7 @@
                 "last_commit": "2025-06-09T22:47:03Z",
                 "owner": "awslabs",
                 "repo": "terraform-iam-policy-validator",
-                "stars": 353
+                "stars": 354
               }
             },
             {
@@ -229,6 +273,28 @@
           "description": null,
           "node_type": "group",
           "title": "AWS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Prowler",
+              "description": "Open-source security assessment tool for AWS, Azure, GCP, and Kubernetes covering CIS, PCI, HIPAA, SOC 2, ISO 27001, and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66474729,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:19:02Z",
+                "owner": "prowler-cloud",
+                "repo": "prowler",
+                "stars": 14666
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multi-Cloud"
         }
       ],
       "title": "Cloud Provider Compliance Tools"
@@ -247,7 +313,7 @@
                 "archived": false,
                 "id": 291571443,
                 "language": "Python",
-                "last_commit": "2026-08-22T09:42:54Z",
+                "last_commit": "2026-08-24T14:36:16Z",
                 "owner": "oscal-compass",
                 "repo": "compliance-trestle",
                 "stars": 271
@@ -434,6 +500,50 @@
           "description": null,
           "node_type": "group",
           "title": "OPA/Rego Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "terraform-sentinel-policies",
+              "description": "Example Sentinel policies for Terraform Cloud/Enterprise demonstrating common compliance patterns.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 452328733,
+                "language": "HCL",
+                "last_commit": "2026-05-11T02:58:16Z",
+                "owner": "hashicorp",
+                "repo": "terraform-sentinel-policies",
+                "stars": 175
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sentinel Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AWS Guard Rules Registry",
+              "description": "Official AWS registry of Guard rules covering CIS, NIST, PCI DSS, HIPAA, and SOC 2 compliance frameworks, applicable to Terraform plan JSON via cfn-guard.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 429545878,
+                "language": "Python",
+                "last_commit": "2024-03-25T20:06:52Z",
+                "owner": "aws-cloudformation",
+                "repo": "aws-guard-rules-registry",
+                "stars": 143
+              }
+            }
+          ],
+          "description": "Rule libraries for CloudFormation Guard, which evaluates Terraform plan JSON.",
+          "node_type": "group",
+          "title": "Guard Rule Libraries"
         }
       ],
       "title": "Policy Libraries and Rulesets"
@@ -465,7 +575,7 @@
             "archived": false,
             "id": 1168601310,
             "language": "Python",
-            "last_commit": "2026-08-21T18:02:29Z",
+            "last_commit": "2026-08-24T14:26:01Z",
             "owner": "mattrobinsonsre",
             "repo": "terrapod",
             "stars": 253
@@ -489,7 +599,7 @@
             "last_commit": "2026-08-21T15:15:20Z",
             "owner": "antonbabenko",
             "repo": "pre-commit-terraform",
-            "stars": 3757
+            "stars": 3758
           }
         },
         {
@@ -555,7 +665,7 @@
             "last_commit": "2026-07-27T07:32:27Z",
             "owner": "shuaibiyy",
             "repo": "awesome-tf",
-            "stars": 6579
+            "stars": 6581
           }
         },
         {
@@ -570,7 +680,7 @@
             "last_commit": "2026-03-17T02:09:12Z",
             "owner": "4ndersonLin",
             "repo": "awesome-cloud-security",
-            "stars": 2481
+            "stars": 2482
           }
         },
         {
@@ -585,7 +695,7 @@
             "last_commit": "2024-08-02T12:52:41Z",
             "owner": "jakob-pennington",
             "repo": "awesome-devsecops",
-            "stars": 1716
+            "stars": 1717
           }
         },
         {
@@ -600,7 +710,7 @@
             "last_commit": "2026-08-17T11:54:34Z",
             "owner": "open-policy-agent",
             "repo": "awesome-opa",
-            "stars": 899
+            "stars": 900
           }
         },
         {
@@ -623,7 +733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:10:16.195Z",
+    "last_updated": "2026-08-24T14:37:33.159Z",
     "original_repository": "antonbabenko/awesome-terraform-compliance",
     "original_repository_id": 1194389960,
     "original_repository_sha": "760e4e417870672952854872a812108cae4d0b9a",
