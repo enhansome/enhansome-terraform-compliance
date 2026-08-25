@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 366089286,
                 "language": "Java",
-                "last_commit": "2026-08-24T17:34:46Z",
+                "last_commit": "2026-08-25T11:30:25Z",
                 "owner": "SonarSource",
                 "repo": "sonar-iac",
                 "stars": 58
@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 271888852,
                 "language": "Rust",
-                "last_commit": "2026-08-25T01:14:41Z",
+                "last_commit": "2026-08-25T13:40:50Z",
                 "owner": "aws-cloudformation",
                 "repo": "cloudformation-guard",
                 "stars": 1385
@@ -285,10 +285,10 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-24T19:26:07Z",
+                "last_commit": "2026-08-25T14:28:52Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14671
+                "stars": 14673
               }
             }
           ],
@@ -313,7 +313,7 @@
                 "archived": false,
                 "id": 291571443,
                 "language": "Python",
-                "last_commit": "2026-08-24T18:27:51Z",
+                "last_commit": "2026-08-25T09:20:16Z",
                 "owner": "oscal-compass",
                 "repo": "compliance-trestle",
                 "stars": 271
@@ -596,10 +596,10 @@
             "archived": false,
             "id": 69382485,
             "language": "Shell",
-            "last_commit": "2026-08-21T15:15:20Z",
+            "last_commit": "2026-08-25T12:38:47Z",
             "owner": "antonbabenko",
             "repo": "pre-commit-terraform",
-            "stars": 3759
+            "stars": 3760
           }
         },
         {
@@ -662,10 +662,10 @@
             "archived": false,
             "id": 58478671,
             "language": null,
-            "last_commit": "2026-08-24T17:48:14Z",
+            "last_commit": "2026-08-25T07:24:42Z",
             "owner": "shuaibiyy",
             "repo": "awesome-tf",
-            "stars": 6582
+            "stars": 6580
           }
         },
         {
@@ -733,7 +733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:27:36.954Z",
+    "last_updated": "2026-08-25T14:31:23.418Z",
     "original_repository": "antonbabenko/awesome-terraform-compliance",
     "original_repository_id": 1194389960,
     "original_repository_sha": "760e4e417870672952854872a812108cae4d0b9a",
