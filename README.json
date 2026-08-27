@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 366089286,
                 "language": "Java",
-                "last_commit": "2026-08-27T08:53:10Z",
+                "last_commit": "2026-08-27T14:22:47Z",
                 "owner": "SonarSource",
                 "repo": "sonar-iac",
                 "stars": 58
@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-26T00:43:56Z",
                 "owner": "terraform-linters",
                 "repo": "tflint",
-                "stars": 5796
+                "stars": 5797
               }
             },
             {
@@ -285,10 +285,10 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-27T12:04:20Z",
+                "last_commit": "2026-08-27T19:18:06Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14692
+                "stars": 14697
               }
             }
           ],
@@ -313,7 +313,7 @@
                 "archived": false,
                 "id": 291571443,
                 "language": "Python",
-                "last_commit": "2026-08-26T09:48:47Z",
+                "last_commit": "2026-08-27T19:35:44Z",
                 "owner": "oscal-compass",
                 "repo": "compliance-trestle",
                 "stars": 273
@@ -405,7 +405,7 @@
                 "last_commit": "2025-10-19T21:04:06Z",
                 "owner": "dragondrop-cloud",
                 "repo": "cloud-concierge",
-                "stars": 247
+                "stars": 246
               }
             },
             {
@@ -695,7 +695,7 @@
             "last_commit": "2024-08-02T12:52:41Z",
             "owner": "jakob-pennington",
             "repo": "awesome-devsecops",
-            "stars": 1718
+            "stars": 1719
           }
         },
         {
@@ -733,7 +733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:11:45.734Z",
+    "last_updated": "2026-08-27T23:15:00.339Z",
     "original_repository_info": {
       "archived": false,
       "id": 1194389960,
