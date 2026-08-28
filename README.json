@@ -18,7 +18,8 @@
                 "owner": "filipi86",
                 "repo": "drogonsec",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "SonarSource",
                 "repo": "sonar-iac",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             }
           ],
           "description": "Scanners that support multiple IaC frameworks including Terraform.",
@@ -54,8 +56,9 @@
                 "last_commit": "2026-08-26T00:43:56Z",
                 "owner": "terraform-linters",
                 "repo": "tflint",
-                "stars": 5797
-              }
+                "stars": 5796
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             },
             {
               "node_type": "item",
@@ -69,8 +72,9 @@
                 "last_commit": "2026-08-26T15:44:17Z",
                 "owner": "aws-cloudformation",
                 "repo": "cloudformation-guard",
-                "stars": 1385
-              }
+                "stars": 1386
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "JamesWoolfenden",
                 "repo": "pike",
                 "stars": 928
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             },
             {
               "node_type": "item",
@@ -96,11 +101,12 @@
                 "archived": false,
                 "id": 360277156,
                 "language": "Python",
-                "last_commit": "2026-08-24T11:18:54Z",
+                "last_commit": "2026-08-28T13:58:09Z",
                 "owner": "StackGuardian",
                 "repo": "tirith",
                 "stars": 167
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             }
           ],
           "description": "Scanners focused specifically on Terraform or OpenTofu.",
@@ -122,7 +128,8 @@
                 "owner": "bridgecrewio",
                 "repo": "terragoat",
                 "stars": 1305
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             },
             {
               "node_type": "item",
@@ -137,7 +144,8 @@
                 "owner": "nccgroup",
                 "repo": "sadcloud",
                 "stars": 788
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             }
           ],
           "description": "Repositories with deliberately misconfigured Terraform for testing and benchmarking security scanners.",
@@ -165,7 +173,8 @@
                 "owner": "nozaq",
                 "repo": "terraform-aws-secure-baseline",
                 "stars": 1200
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             }
           ],
           "description": null,
@@ -187,7 +196,8 @@
                 "owner": "aztfmod",
                 "repo": "terraform-azurerm-caf",
                 "stars": 587
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             }
           ],
           "description": null,
@@ -209,7 +219,8 @@
                 "owner": "GoogleCloudPlatform",
                 "repo": "pbmm-on-gcp-onboarding",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             },
             {
               "node_type": "item",
@@ -224,7 +235,8 @@
                 "owner": "GoogleCloudPlatform",
                 "repo": "gcp-hardening-toolkit",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             }
           ],
           "description": null,
@@ -252,7 +264,8 @@
                 "owner": "awslabs",
                 "repo": "terraform-iam-policy-validator",
                 "stars": 354
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             },
             {
               "node_type": "item",
@@ -266,8 +279,9 @@
                 "last_commit": "2025-04-17T16:26:12Z",
                 "owner": "aws-samples",
                 "repo": "aws-control-tower-controls-terraform",
-                "stars": 109
-              }
+                "stars": 108
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             }
           ],
           "description": null,
@@ -285,11 +299,12 @@
                 "archived": false,
                 "id": 66474729,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:18:06Z",
+                "last_commit": "2026-08-28T13:17:40Z",
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14697
-              }
+                "stars": 14712
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             }
           ],
           "description": null,
@@ -313,11 +328,12 @@
                 "archived": false,
                 "id": 291571443,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:35:44Z",
+                "last_commit": "2026-08-28T15:06:18Z",
                 "owner": "oscal-compass",
                 "repo": "compliance-trestle",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             },
             {
               "node_type": "item",
@@ -332,7 +348,8 @@
                 "owner": "GovReady",
                 "repo": "govready-q",
                 "stars": 219
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             },
             {
               "node_type": "item",
@@ -347,7 +364,8 @@
                 "owner": "defenseunicorns",
                 "repo": "lula",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             }
           ],
           "description": null,
@@ -369,7 +387,8 @@
                 "owner": "bridgecrewio",
                 "repo": "yor",
                 "stars": 933
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             },
             {
               "node_type": "item",
@@ -384,7 +403,8 @@
                 "owner": "Azure",
                 "repo": "mapotf",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             }
           ],
           "description": null,
@@ -406,7 +426,8 @@
                 "owner": "dragondrop-cloud",
                 "repo": "cloud-concierge",
                 "stars": 246
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             },
             {
               "node_type": "item",
@@ -421,7 +442,8 @@
                 "owner": "cresta",
                 "repo": "atlantis-drift-detection",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             },
             {
               "node_type": "item",
@@ -436,7 +458,8 @@
                 "owner": "drifthoundhq",
                 "repo": "drifthound",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             },
             {
               "node_type": "item",
@@ -451,7 +474,8 @@
                 "owner": "slok",
                 "repo": "tfe-drift",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             }
           ],
           "description": null,
@@ -479,7 +503,8 @@
                 "owner": "terraform-linters",
                 "repo": "tflint-ruleset-opa",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             },
             {
               "node_type": "item",
@@ -494,7 +519,8 @@
                 "owner": "prancer-io",
                 "repo": "prancer-compliance-test",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             }
           ],
           "description": null,
@@ -516,7 +542,8 @@
                 "owner": "hashicorp",
                 "repo": "terraform-sentinel-policies",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             }
           ],
           "description": null,
@@ -538,7 +565,8 @@
                 "owner": "aws-cloudformation",
                 "repo": "aws-guard-rules-registry",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T23:13:55.137Z"
             }
           ],
           "description": "Rule libraries for CloudFormation Guard, which evaluates Terraform plan JSON.",
@@ -564,7 +592,8 @@
             "owner": "leg100",
             "repo": "otf",
             "stars": 700
-          }
+          },
+          "first_seen": "2026-08-28T23:13:55.137Z"
         },
         {
           "node_type": "item",
@@ -579,7 +608,8 @@
             "owner": "mattrobinsonsre",
             "repo": "terrapod",
             "stars": 254
-          }
+          },
+          "first_seen": "2026-08-28T23:13:55.137Z"
         }
       ],
       "title": "Terraform Automation Platforms"
@@ -599,8 +629,9 @@
             "last_commit": "2026-08-26T17:55:03Z",
             "owner": "antonbabenko",
             "repo": "pre-commit-terraform",
-            "stars": 3760
-          }
+            "stars": 3762
+          },
+          "first_seen": "2026-08-28T23:13:55.137Z"
         },
         {
           "node_type": "item",
@@ -615,7 +646,8 @@
             "owner": "NordCoderd",
             "repo": "cloud-security-plugin",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T23:13:55.137Z"
         },
         {
           "node_type": "item",
@@ -630,7 +662,8 @@
             "owner": "Azure",
             "repo": "grept",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:13:55.137Z"
         },
         {
           "node_type": "item",
@@ -645,7 +678,8 @@
             "owner": "Liam-Johnston",
             "repo": "terraform-risk-assessor",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:13:55.137Z"
         }
       ],
       "title": "CI/CD and Platform Integration"
@@ -666,7 +700,8 @@
             "owner": "shuaibiyy",
             "repo": "awesome-tf",
             "stars": 6582
-          }
+          },
+          "first_seen": "2026-08-28T23:13:55.137Z"
         },
         {
           "node_type": "item",
@@ -681,7 +716,8 @@
             "owner": "4ndersonLin",
             "repo": "awesome-cloud-security",
             "stars": 2483
-          }
+          },
+          "first_seen": "2026-08-28T23:13:55.137Z"
         },
         {
           "node_type": "item",
@@ -695,8 +731,9 @@
             "last_commit": "2024-08-02T12:52:41Z",
             "owner": "jakob-pennington",
             "repo": "awesome-devsecops",
-            "stars": 1719
-          }
+            "stars": 1720
+          },
+          "first_seen": "2026-08-28T23:13:55.137Z"
         },
         {
           "node_type": "item",
@@ -711,7 +748,8 @@
             "owner": "open-policy-agent",
             "repo": "awesome-opa",
             "stars": 901
-          }
+          },
+          "first_seen": "2026-08-28T23:13:55.137Z"
         },
         {
           "node_type": "item",
@@ -726,14 +764,15 @@
             "owner": "oscal-club",
             "repo": "awesome-oscal",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T23:13:55.137Z"
         }
       ],
       "title": "Related Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:15:00.339Z",
+    "last_updated": "2026-08-28T23:13:55.137Z",
     "original_repository_info": {
       "archived": false,
       "id": 1194389960,
