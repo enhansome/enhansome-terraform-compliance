@@ -88,7 +88,7 @@
                 "open_issues": 30,
                 "owner": "terraform-linters",
                 "repo": "tflint",
-                "stars": 5796,
+                "stars": 5798,
                 "topics": [
                   "terraform",
                   "tflint"
@@ -469,7 +469,7 @@
                 "open_issues": 337,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14713,
+                "stars": 14715,
                 "topics": [
                   "aws",
                   "azure",
@@ -521,7 +521,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:06:18Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "oscal-compass",
                 "repo": "compliance-trestle",
                 "stars": 273,
@@ -975,7 +975,7 @@
             "id": 69382485,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-26T17:55:03Z",
+            "last_commit": "2026-08-29T14:26:19Z",
             "open_issues": 26,
             "owner": "antonbabenko",
             "repo": "pre-commit-terraform",
@@ -1154,7 +1154,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-08-02T12:52:41Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "jakob-pennington",
             "repo": "awesome-devsecops",
             "stars": 1720,
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:55:28.369Z",
+    "last_updated": "2026-08-29T17:25:23.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure.",
