@@ -84,7 +84,7 @@
                 "id": 71487396,
                 "language": "Go",
                 "license": "MPL-2.0",
-                "last_commit": "2026-08-26T00:43:56Z",
+                "last_commit": "2026-08-29T17:38:34Z",
                 "open_issues": 30,
                 "owner": "terraform-linters",
                 "repo": "tflint",
@@ -466,10 +466,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:17:40Z",
-                "open_issues": 337,
+                "open_issues": 349,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14715,
+                "stars": 14718,
                 "topics": [
                   "aws",
                   "azure",
@@ -975,7 +975,7 @@
             "id": 69382485,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-29T14:26:19Z",
+            "last_commit": "2026-08-29T18:12:26Z",
             "open_issues": 26,
             "owner": "antonbabenko",
             "repo": "pre-commit-terraform",
@@ -1095,7 +1095,7 @@
             "open_issues": 10,
             "owner": "shuaibiyy",
             "repo": "awesome-tf",
-            "stars": 6582,
+            "stars": 6581,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:25:23.259Z",
+    "last_updated": "2026-08-30T17:48:15.225Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure.",
