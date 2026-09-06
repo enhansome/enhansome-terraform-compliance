@@ -79,7 +79,7 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 
 *Scanners focused specifically on Terraform or OpenTofu.*
 
-* [tflint](https://github.com/terraform-linters/tflint) ⭐ 5,802 | 🐛 32 | 🌐 Go | 📅 2026-08-29 - Pluggable Terraform linter with AWS, Azure, and GCP rulesets for detecting errors and enforcing best practices.
+* [tflint](https://github.com/terraform-linters/tflint) ⭐ 5,802 | 🐛 33 | 🌐 Go | 📅 2026-09-05 - Pluggable Terraform linter with AWS, Azure, and GCP rulesets for detecting errors and enforcing best practices.
 * [CloudFormation Guard (cfn-guard)](https://github.com/aws-cloudformation/cloudformation-guard) ⭐ 1,388 | 🐛 52 | 🌐 Rust | 📅 2026-09-02 - Policy-as-code DSL from AWS for writing rules that validate JSON and YAML data, including Terraform plan JSON and HCL configurations.
 * [pike](https://github.com/jamesWoolfenden/pike) ⭐ 928 | 🐛 6 | 🌐 HCL | 📅 2026-09-05 - Scans Terraform and OpenTofu code to calculate the minimum IAM permissions required for deployment across AWS, GCP, and Azure.
 * [Tirith](https://github.com/StackGuardian/tirith) ⭐ 166 | 🐛 112 | 🌐 Python | 📅 2026-09-04 - Policy framework for Terraform stacks that evaluates infrastructure configurations against compliance policies defined in JSON.
@@ -145,7 +145,7 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 
 ### Multi-Cloud
 
-* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,756 | 🐛 376 | 🌐 Python | 📅 2026-09-04 - Open-source security assessment tool for AWS, Azure, GCP, and Kubernetes covering CIS, PCI, HIPAA, SOC 2, ISO 27001, and more.
+* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,761 | 🐛 378 | 🌐 Python | 📅 2026-09-04 - Open-source security assessment tool for AWS, Azure, GCP, and Kubernetes covering CIS, PCI, HIPAA, SOC 2, ISO 27001, and more.
 * [Steampipe](https://steampipe.io/) - SQL query engine for live cloud resource data across AWS, Azure, and GCP via plugins. Used as the data layer for Powerpipe compliance benchmarks.
 * [Powerpipe](https://powerpipe.io/) - Benchmark and dashboard runner for compliance controls, using Steampipe as its data source. Runs CIS, SOC 2, HIPAA, PCI, NIST, and FedRAMP benchmarks across AWS, Azure, and GCP.
 * [CloudQuery](https://www.cloudquery.io/) - Open-source cloud asset inventory tool that syncs AWS, Azure, and GCP resources into SQL or Parquet for compliance queries and reporting.
@@ -193,7 +193,7 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 ### Drift Detection
 
 * [cloud-concierge](https://github.com/dragondrop-cloud/cloud-concierge) ⭐ 246 | 🐛 41 | 🌐 Go | 📅 2025-10-19 - Open-source tool that surfaces infrastructure drift, security findings, and cost estimates as pull requests against your Terraform codebase.
-* [atlantis-drift-detection](https://github.com/cresta/atlantis-drift-detection) ⭐ 116 | 🐛 19 | 🌐 Go | 📅 2026-09-02 - Runs Atlantis-driven `terraform plan` across every project in an `atlantis.yaml` monorepo, reports drift and untracked workspaces to Slack, and optionally triggers remediation workflows.
+* [atlantis-drift-detection](https://github.com/cresta/atlantis-drift-detection) ⭐ 116 | 🐛 19 | 🌐 Go | 📅 2026-09-05 - Runs Atlantis-driven `terraform plan` across every project in an `atlantis.yaml` monorepo, reports drift and untracked workspaces to Slack, and optionally triggers remediation workflows.
 * [DriftHound](https://github.com/treezio/drifthound) ⭐ 71 | 🐛 16 | 🌐 Ruby | 📅 2026-04-23 - Receives Terraform drift reports via API and provides a web dashboard with historical tracking, analytics, and Slack notifications.
 * [tfe-drift](https://github.com/slok/tfe-drift) ⭐ 40 | 🐛 10 | 🌐 Go | 📅 2026-03-30 - Automates drift-detection plans across Terraform Cloud and Terraform Enterprise workspaces with rate limiting, Prometheus metrics, and a ready-to-use GitHub Action.
 * [Digger](https://digger.dev/) - Open-source Terraform CI/CD with drift detection capabilities.
@@ -223,7 +223,7 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 
 *Remote execution platforms for Terraform and OpenTofu with policy enforcement built into the run lifecycle. Unlike the CI/CD integrations below, these replace or wrap your pipeline entirely.*
 
-* [OTF](https://github.com/leg100/otf) ⭐ 702 | 🐛 28 | 🌐 Go | 📅 2026-07-16 - Open-source alternative to Terraform Enterprise with SSO, team management, and agent support, no per-resource pricing.
+* [OTF](https://github.com/leg100/otf) ⭐ 703 | 🐛 28 | 🌐 Go | 📅 2026-07-16 - Open-source alternative to Terraform Enterprise with SSO, team management, and agent support, no per-resource pricing.
 * [Terrapod](https://github.com/mattrobinsonsre/terrapod) ⭐ 256 | 🐛 7 | 🌐 Python | 📅 2026-09-04 - Open-source, self-hosted Terraform and OpenTofu automation platform with governance controls, drift detection, RBAC, and HCP Terraform API compatibility.
 * [HCP Terraform and Terraform Enterprise](https://developer.hashicorp.com/terraform/cloud-docs) - HashiCorp's Terraform execution platform with native Sentinel, OPA, and Terraform policy enforcement on runs, audit logging, and team access controls, available as cloud-hosted (HCP Terraform) or self-hosted (Terraform Enterprise). 💲 🆓
 * [Spacelift](https://spacelift.io/) - Terraform and OpenTofu automation platform with built-in OPA policy evaluation on plans, drift detection, and custom policy frameworks. 💲 🆓
@@ -239,7 +239,7 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 
 *Tools and patterns for integrating Terraform compliance checks into deployment pipelines.*
 
-* [Pre-commit Terraform](https://github.com/antonbabenko/pre-commit-terraform) ⭐ 3,766 | 🐛 26 | 🌐 Shell | 📅 2026-09-05 - Collection of Git pre-commit hooks for Terraform including linting, validation, and security scanning.
+* [Pre-commit Terraform](https://github.com/antonbabenko/pre-commit-terraform) ⭐ 3,767 | 🐛 26 | 🌐 Shell | 📅 2026-09-05 - Collection of Git pre-commit hooks for Terraform including linting, validation, and security scanning.
 * [Cloud Security Plugin](https://github.com/NordCoderd/cloud-security-plugin) ⭐ 37 | 🐛 0 | 🌐 Kotlin | 📅 2026-05-02 - JetBrains IDE plugin (IntelliJ, PyCharm, etc.) for IaC security scanning including Terraform, enabling shift-left detection in the editor.
 * [grept](https://github.com/Azure/grept) ⚠️ Archived - Extensible repository linter with HCL-defined rules and a plan/apply workflow, used by Azure Verified Modules to enforce license, file-structure, and content standards across Terraform module repos.
 * [Terraform Risk Assessor](https://github.com/Liam-Johnston/terraform-risk-assessor) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-27 - GitHub Action that analyses Terraform plan JSON and comments risk levels on pull requests.
@@ -286,8 +286,8 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 
 ## Related Awesome Lists
 
-* [awesome-tf](https://github.com/shuaibiyy/awesome-tf) ⭐ 6,589 | 🐛 10 | 📅 2026-09-05 - Curated Terraform and OpenTofu resources.
-* [awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) ⭐ 2,487 | 🐛 21 | 📅 2026-03-17 - Cloud security resources across AWS, Azure, and GCP.
+* [awesome-tf](https://github.com/shuaibiyy/awesome-tf) ⭐ 6,590 | 🐛 11 | 📅 2026-09-05 - Curated Terraform and OpenTofu resources.
+* [awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) ⭐ 2,487 | 🐛 22 | 📅 2026-03-17 - Cloud security resources across AWS, Azure, and GCP.
 * [awesome-devsecops](https://github.com/JakobTheDev/awesome-devsecops) ⭐ 1,720 | 🐛 40 | 📅 2024-08-02 - DevSecOps tools and resources including IaC security.
 * [awesome-opa](https://github.com/open-policy-agent/awesome-opa) ⭐ 901 | 🐛 5 | 📅 2026-08-17 - Open Policy Agent tools, frameworks, and articles.
 * [awesome-oscal](https://github.com/oscal-club/awesome-oscal) ⭐ 233 | 🐛 10 | 📅 2025-06-25 - OSCAL ecosystem tools and resources.
@@ -320,4 +320,4 @@ This list is a curation, not a collection. Every entry must clear these gates:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

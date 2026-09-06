@@ -84,8 +84,8 @@
                 "id": 71487396,
                 "language": "Go",
                 "license": "MPL-2.0",
-                "last_commit": "2026-08-29T17:38:34Z",
-                "open_issues": 32,
+                "last_commit": "2026-09-05T17:36:40Z",
+                "open_issues": 33,
                 "owner": "terraform-linters",
                 "repo": "tflint",
                 "stars": 5802,
@@ -466,10 +466,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T14:15:01Z",
-                "open_issues": 376,
+                "open_issues": 378,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14756,
+                "stars": 14761,
                 "topics": [
                   "aws",
                   "azure",
@@ -687,7 +687,7 @@
                 "id": 525883676,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T03:13:10Z",
+                "last_commit": "2026-09-05T22:58:27Z",
                 "open_issues": 19,
                 "owner": "cresta",
                 "repo": "atlantis-drift-detection",
@@ -908,7 +908,7 @@
             "open_issues": 28,
             "owner": "leg100",
             "repo": "otf",
-            "stars": 702,
+            "stars": 703,
             "topics": [
               "terraform"
             ]
@@ -979,7 +979,7 @@
             "open_issues": 26,
             "owner": "antonbabenko",
             "repo": "pre-commit-terraform",
-            "stars": 3766,
+            "stars": 3767,
             "topics": [
               "automation",
               "code-style",
@@ -1092,10 +1092,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-05T14:32:39Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "shuaibiyy",
             "repo": "awesome-tf",
-            "stars": 6589,
+            "stars": 6590,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1122,7 +1122,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-17T02:09:12Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "4ndersonLin",
             "repo": "awesome-cloud-security",
             "stars": 2487,
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:18:00.459Z",
+    "last_updated": "2026-09-06T16:29:03.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure.",
