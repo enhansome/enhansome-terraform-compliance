@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "filipi86",
                 "repo": "drogonsec",
-                "stars": 177,
+                "stars": 178,
                 "topics": [
                   "ai",
                   "ai-remediation",
@@ -88,7 +88,7 @@
                 "open_issues": 32,
                 "owner": "terraform-linters",
                 "repo": "tflint",
-                "stars": 5817,
+                "stars": 5818,
                 "topics": [
                   "terraform",
                   "tflint"
@@ -139,7 +139,7 @@
                 "id": 499752618,
                 "language": "HCL",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T12:24:48Z",
+                "last_commit": "2026-09-18T20:44:16Z",
                 "open_issues": 5,
                 "owner": "JamesWoolfenden",
                 "repo": "pike",
@@ -211,7 +211,7 @@
                 "open_issues": 62,
                 "owner": "bridgecrewio",
                 "repo": "terragoat",
-                "stars": 1305,
+                "stars": 1306,
                 "topics": [
                   "aws-security",
                   "azure-security",
@@ -465,11 +465,11 @@
                 "id": 66474729,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T14:05:00Z",
-                "open_issues": 378,
+                "last_commit": "2026-09-19T01:46:58Z",
+                "open_issues": 377,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14835,
+                "stars": 14837,
                 "topics": [
                   "aws",
                   "azure",
@@ -521,7 +521,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-14T08:16:18Z",
-                "open_issues": 43,
+                "open_issues": 42,
                 "owner": "oscal-compass",
                 "repo": "compliance-trestle",
                 "stars": 276,
@@ -662,7 +662,7 @@
                 "open_issues": 41,
                 "owner": "dragondrop-cloud",
                 "repo": "cloud-concierge",
-                "stars": 246,
+                "stars": 247,
                 "topics": [
                   "aws",
                   "azurerm",
@@ -927,11 +927,11 @@
             "id": 1168601310,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-18T15:53:49Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-18T19:26:48Z",
+            "open_issues": 14,
             "owner": "mattrobinsonsre",
             "repo": "terrapod",
-            "stars": 258,
+            "stars": 259,
             "topics": [
               "ai",
               "devops",
@@ -979,7 +979,7 @@
             "open_issues": 27,
             "owner": "antonbabenko",
             "repo": "pre-commit-terraform",
-            "stars": 3775,
+            "stars": 3777,
             "topics": [
               "automation",
               "code-style",
@@ -1125,7 +1125,7 @@
             "open_issues": 24,
             "owner": "4ndersonLin",
             "repo": "awesome-cloud-security",
-            "stars": 2487,
+            "stars": 2486,
             "topics": [
               "aws",
               "aws-security",
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:17:46.231Z",
+    "last_updated": "2026-09-19T16:50:11.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure.",
