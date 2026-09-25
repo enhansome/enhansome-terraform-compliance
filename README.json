@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "filipi86",
                 "repo": "drogonsec",
-                "stars": 181,
+                "stars": 183,
                 "topics": [
                   "ai",
                   "ai-remediation",
@@ -56,7 +56,7 @@
                 "id": 366089286,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T17:04:51Z",
+                "last_commit": "2026-09-25T17:04:03Z",
                 "open_issues": 6,
                 "owner": "SonarSource",
                 "repo": "sonar-iac",
@@ -88,7 +88,7 @@
                 "open_issues": 32,
                 "owner": "terraform-linters",
                 "repo": "tflint",
-                "stars": 5821,
+                "stars": 5822,
                 "topics": [
                   "terraform",
                   "tflint"
@@ -112,7 +112,7 @@
                 "open_issues": 58,
                 "owner": "aws-cloudformation",
                 "repo": "cloudformation-guard",
-                "stars": 1389,
+                "stars": 1388,
                 "topics": [
                   "cfn-guard",
                   "cloudformation",
@@ -172,7 +172,7 @@
                 "open_issues": 113,
                 "owner": "StackGuardian",
                 "repo": "tirith",
-                "stars": 165,
+                "stars": 166,
                 "topics": [
                   "aws",
                   "azure",
@@ -211,7 +211,7 @@
                 "open_issues": 62,
                 "owner": "bridgecrewio",
                 "repo": "terragoat",
-                "stars": 1306,
+                "stars": 1307,
                 "topics": [
                   "aws-security",
                   "azure-security",
@@ -240,7 +240,7 @@
                 "open_issues": 9,
                 "owner": "nccgroup",
                 "repo": "sadcloud",
-                "stars": 791,
+                "stars": 793,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:55.137Z"
@@ -465,11 +465,11 @@
                 "id": 66474729,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T16:20:43Z",
-                "open_issues": 381,
+                "last_commit": "2026-09-25T12:55:24Z",
+                "open_issues": 382,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14862,
+                "stars": 14863,
                 "topics": [
                   "aws",
                   "azure",
@@ -524,7 +524,7 @@
                 "open_issues": 44,
                 "owner": "oscal-compass",
                 "repo": "compliance-trestle",
-                "stars": 278,
+                "stars": 280,
                 "topics": [
                   "compliance",
                   "nist800-53",
@@ -567,7 +567,7 @@
                 "id": 1042247939,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-05-08T05:56:03Z",
+                "last_commit": "2026-09-24T21:26:33Z",
                 "open_issues": 22,
                 "owner": "defenseunicorns",
                 "repo": "lula",
@@ -630,7 +630,7 @@
                 "id": 784650457,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-23T10:37:11Z",
+                "last_commit": "2026-09-25T15:23:16Z",
                 "open_issues": 4,
                 "owner": "Azure",
                 "repo": "mapotf",
@@ -709,7 +709,7 @@
                 "language": "Ruby",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-04-23T09:36:03Z",
-                "open_issues": 16,
+                "open_issues": 22,
                 "owner": "drifthoundhq",
                 "repo": "drifthound",
                 "stars": 71,
@@ -927,8 +927,8 @@
             "id": 1168601310,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-24T17:40:23Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-25T16:18:16Z",
+            "open_issues": 12,
             "owner": "mattrobinsonsre",
             "repo": "terrapod",
             "stars": 259,
@@ -975,7 +975,7 @@
             "id": 69382485,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-22T05:06:33Z",
+            "last_commit": "2026-09-25T01:43:21Z",
             "open_issues": 30,
             "owner": "antonbabenko",
             "repo": "pre-commit-terraform",
@@ -1095,7 +1095,7 @@
             "open_issues": 5,
             "owner": "shuaibiyy",
             "repo": "awesome-tf",
-            "stars": 6599,
+            "stars": 6601,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1125,7 +1125,7 @@
             "open_issues": 25,
             "owner": "4ndersonLin",
             "repo": "awesome-cloud-security",
-            "stars": 2486,
+            "stars": 2487,
             "topics": [
               "aws",
               "aws-security",
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:00:00.766Z",
+    "last_updated": "2026-09-25T18:06:31.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure.",
