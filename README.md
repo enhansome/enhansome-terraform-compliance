@@ -79,9 +79,9 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 
 *Scanners focused specifically on Terraform or OpenTofu.*
 
-* [tflint](https://github.com/terraform-linters/tflint) ⭐ 5,828 | 🐛 33 | 🌐 Go | 📅 2026-09-26 - Pluggable Terraform linter with AWS, Azure, and GCP rulesets for detecting errors and enforcing best practices.
+* [tflint](https://github.com/terraform-linters/tflint) ⭐ 5,827 | 🐛 33 | 🌐 Go | 📅 2026-09-26 - Pluggable Terraform linter with AWS, Azure, and GCP rulesets for detecting errors and enforcing best practices.
 * [CloudFormation Guard (cfn-guard)](https://github.com/aws-cloudformation/cloudformation-guard) ⭐ 1,389 | 🐛 59 | 🌐 Rust | 📅 2026-09-14 - Policy-as-code DSL from AWS for writing rules that validate JSON and YAML data, including Terraform plan JSON and HCL configurations.
-* [pike](https://github.com/jamesWoolfenden/pike) ⭐ 929 | 🐛 5 | 🌐 HCL | 📅 2026-09-28 - Scans Terraform and OpenTofu code to calculate the minimum IAM permissions required for deployment across AWS, GCP, and Azure.
+* [pike](https://github.com/jamesWoolfenden/pike) ⭐ 929 | 🐛 5 | 🌐 HCL | 📅 2026-10-02 - Scans Terraform and OpenTofu code to calculate the minimum IAM permissions required for deployment across AWS, GCP, and Azure.
 * [Tirith](https://github.com/StackGuardian/tirith) ⭐ 167 | 🐛 117 | 🌐 Python | 📅 2026-10-02 - Policy framework for Terraform stacks that evaluates infrastructure configurations against compliance policies defined in JSON.
 * [terraform-compliance](https://terraform-compliance.com/) - BDD-style testing framework for Terraform using Cucumber syntax to write compliance tests in natural language.
 
@@ -145,7 +145,7 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 
 ### Multi-Cloud
 
-* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,913 | 🐛 389 | 🌐 Python | 📅 2026-10-02 - Open-source security assessment tool for AWS, Azure, GCP, and Kubernetes covering CIS, PCI, HIPAA, SOC 2, ISO 27001, and more.
+* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,917 | 🐛 391 | 🌐 Python | 📅 2026-10-02 - Open-source security assessment tool for AWS, Azure, GCP, and Kubernetes covering CIS, PCI, HIPAA, SOC 2, ISO 27001, and more.
 * [Steampipe](https://steampipe.io/) - SQL query engine for live cloud resource data across AWS, Azure, and GCP via plugins. Used as the data layer for Powerpipe compliance benchmarks.
 * [Powerpipe](https://powerpipe.io/) - Benchmark and dashboard runner for compliance controls, using Steampipe as its data source. Runs CIS, SOC 2, HIPAA, PCI, NIST, and FedRAMP benchmarks across AWS, Azure, and GCP.
 * [CloudQuery](https://www.cloudquery.io/) - Open-source cloud asset inventory tool that syncs AWS, Azure, and GCP resources into SQL or Parquet for compliance queries and reporting.
@@ -179,7 +179,7 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 
 ### OSCAL Tooling
 
-* [Compliance Trestle](https://github.com/oscal-compass/compliance-trestle) ⭐ 282 | 🐛 42 | 🌐 Python | 📅 2026-09-30 - SDK and CLI for creating and validating OSCAL documents, part of the OSCAL Compass project.
+* [Compliance Trestle](https://github.com/oscal-compass/compliance-trestle) ⭐ 281 | 🐛 41 | 🌐 Python | 📅 2026-09-30 - SDK and CLI for creating and validating OSCAL documents, part of the OSCAL Compass project.
 * [GovReady-Q](https://github.com/GovReady/govready-q) ⭐ 220 | 🐛 43 | 🌐 Python | 📅 2024-12-10 - Compliance-as-code platform for generating System Security Plans with OSCAL output. 🏛️
 * [Lula](https://github.com/defenseunicorns/lula) ⭐ 46 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-24 - Tool for mapping OSCAL component definitions to live infrastructure for continuous compliance validation. 🏛️
 
@@ -204,7 +204,7 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 
 ### OPA/Rego Libraries
 
-* [tflint-ruleset-opa](https://github.com/terraform-linters/tflint-ruleset-opa) ⭐ 88 | 🐛 4 | 🌐 Go | 📅 2026-09-21 - TFLint plugin for writing custom compliance rules in Rego, bridging tflint's Terraform-native linting with OPA policy evaluation.
+* [tflint-ruleset-opa](https://github.com/terraform-linters/tflint-ruleset-opa) ⭐ 88 | 🐛 5 | 🌐 Go | 📅 2026-09-21 - TFLint plugin for writing custom compliance rules in Rego, bridging tflint's Terraform-native linting with OPA policy evaluation.
 * [Prancer Compliance Test](https://github.com/prancer-io/prancer-compliance-test) ⭐ 42 | 🐛 8 | 🌐 Open Policy Agent | 📅 2026-03-11 - Rego policy library with a dedicated `terraform/` ruleset for IaC scanning alongside AWS, Azure, GCP, and Kubernetes policies, designed for OPA and the Prancer platform. 💲 🆓
 * [Conftest](https://www.conftest.dev/) - Utility for writing tests against structured configuration data using OPA/Rego, widely used for Terraform plan validation.
 * [Regal](https://www.openpolicyagent.org/projects/regal) - Linter for Rego policies with 50+ built-in rules covering correctness, style, and performance. Catches bugs and anti-patterns before policies reach production.
@@ -224,7 +224,7 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 *Remote execution platforms for Terraform and OpenTofu with policy enforcement built into the run lifecycle. Unlike the CI/CD integrations below, these replace or wrap your pipeline entirely.*
 
 * [OTF](https://github.com/leg100/otf) ⭐ 704 | 🐛 30 | 🌐 Go | 📅 2026-07-16 - Open-source alternative to Terraform Enterprise with SSO, team management, and agent support, no per-resource pricing.
-* [Terrapod](https://github.com/mattrobinsonsre/terrapod) ⭐ 259 | 🐛 24 | 🌐 Python | 📅 2026-10-02 - Open-source, self-hosted Terraform and OpenTofu automation platform with governance controls, drift detection, RBAC, and HCP Terraform API compatibility.
+* [Terrapod](https://github.com/mattrobinsonsre/terrapod) ⭐ 259 | 🐛 26 | 🌐 Python | 📅 2026-10-02 - Open-source, self-hosted Terraform and OpenTofu automation platform with governance controls, drift detection, RBAC, and HCP Terraform API compatibility.
 * [HCP Terraform and Terraform Enterprise](https://developer.hashicorp.com/terraform/cloud-docs) - HashiCorp's Terraform execution platform with native Sentinel, OPA, and Terraform policy enforcement on runs, audit logging, and team access controls, available as cloud-hosted (HCP Terraform) or self-hosted (Terraform Enterprise). 💲 🆓
 * [Spacelift](https://spacelift.io/) - Terraform and OpenTofu automation platform with built-in OPA policy evaluation on plans, drift detection, and custom policy frameworks. 💲 🆓
 * [env0](https://www.env0.com/) - Terraform and OpenTofu automation platform with OPA and Checkov policy integration, cost governance, and environment lifecycle management. 💲 🆓
@@ -320,4 +320,4 @@ This list is a curation, not a collection. Every entry must clear these gates:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
