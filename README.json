@@ -56,7 +56,7 @@
                 "id": 366089286,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T17:04:36Z",
+                "last_commit": "2026-10-06T09:36:19Z",
                 "open_issues": 7,
                 "owner": "SonarSource",
                 "repo": "sonar-iac",
@@ -88,7 +88,7 @@
                 "open_issues": 34,
                 "owner": "terraform-linters",
                 "repo": "tflint",
-                "stars": 5831,
+                "stars": 5829,
                 "topics": [
                   "terraform",
                   "tflint"
@@ -172,7 +172,7 @@
                 "open_issues": 119,
                 "owner": "StackGuardian",
                 "repo": "tirith",
-                "stars": 168,
+                "stars": 167,
                 "topics": [
                   "aws",
                   "azure",
@@ -465,11 +465,11 @@
                 "id": 66474729,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T14:57:43Z",
-                "open_issues": 417,
+                "last_commit": "2026-10-06T10:24:21Z",
+                "open_issues": 416,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 14958,
+                "stars": 14964,
                 "topics": [
                   "aws",
                   "azure",
@@ -524,7 +524,7 @@
                 "open_issues": 41,
                 "owner": "oscal-compass",
                 "repo": "compliance-trestle",
-                "stars": 282,
+                "stars": 283,
                 "topics": [
                   "compliance",
                   "nist800-53",
@@ -708,7 +708,7 @@
                 "id": 1105172804,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-05T04:13:42Z",
+                "last_commit": "2026-10-06T07:18:24Z",
                 "open_issues": 6,
                 "owner": "drifthoundhq",
                 "repo": "drifthound",
@@ -927,7 +927,7 @@
             "id": 1168601310,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-05T21:12:59Z",
+            "last_commit": "2026-10-06T09:40:31Z",
             "open_issues": 25,
             "owner": "mattrobinsonsre",
             "repo": "terrapod",
@@ -975,8 +975,8 @@
             "id": 69382485,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-02T11:45:28Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-06T05:04:22Z",
+            "open_issues": 31,
             "owner": "antonbabenko",
             "repo": "pre-commit-terraform",
             "stars": 3784,
@@ -1095,7 +1095,7 @@
             "open_issues": 15,
             "owner": "shuaibiyy",
             "repo": "awesome-tf",
-            "stars": 6612,
+            "stars": 6610,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1157,7 +1157,7 @@
             "open_issues": 45,
             "owner": "jakob-pennington",
             "repo": "awesome-devsecops",
-            "stars": 1744,
+            "stars": 1745,
             "topics": [
               "application-security",
               "awesome",
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:26:28.398Z",
+    "last_updated": "2026-10-06T10:48:02.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure.",
