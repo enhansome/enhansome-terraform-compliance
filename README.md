@@ -69,7 +69,7 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 *Scanners that support multiple IaC frameworks including Terraform.*
 
 * [Drogon](https://github.com/filipi86/drogonsec) ⭐ 182 | 🐛 2 | 🌐 Go | 📅 2026-10-05 - High-performance open-source scanner combining SAST, SCA, secret detection, and IaC analysis for Terraform and other formats, built for CI/CD pipelines.
-* [SonarQube IaC Analysis](https://github.com/SonarSource/sonar-iac) ⭐ 59 | 🐛 7 | 🌐 Java | 📅 2026-10-06 - SonarSource's IaC static analyzer covering Terraform, CloudFormation, Kubernetes, and Docker with security and quality rules.
+* [SonarQube IaC Analysis](https://github.com/SonarSource/sonar-iac) ⭐ 59 | 🐛 7 | 🌐 Java | 📅 2026-10-07 - SonarSource's IaC static analyzer covering Terraform, CloudFormation, Kubernetes, and Docker with security and quality rules.
 * [Checkov](https://www.checkov.io/) - Static analysis tool with 1,000+ built-in policies covering CIS, SOC 2, HIPAA, PCI DSS, and NIST benchmarks for Terraform, CloudFormation, Kubernetes, and more.
 * [Trivy](https://trivy.dev/) - Security scanner for IaC misconfigurations, vulnerabilities, secrets, and licenses with Terraform HCL and plan support (absorbed tfsec).
 * [KICS](https://kics.io/) - Open-source scanner by Checkmarx with 1,900+ queries across Terraform, Ansible, Docker, and Kubernetes.
@@ -79,10 +79,10 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 
 *Scanners focused specifically on Terraform or OpenTofu.*
 
-* [tflint](https://github.com/terraform-linters/tflint) ⭐ 5,829 | 🐛 34 | 🌐 Go | 📅 2026-10-03 - Pluggable Terraform linter with AWS, Azure, and GCP rulesets for detecting errors and enforcing best practices.
+* [tflint](https://github.com/terraform-linters/tflint) ⭐ 5,830 | 🐛 34 | 🌐 Go | 📅 2026-10-03 - Pluggable Terraform linter with AWS, Azure, and GCP rulesets for detecting errors and enforcing best practices.
 * [CloudFormation Guard (cfn-guard)](https://github.com/aws-cloudformation/cloudformation-guard) ⭐ 1,389 | 🐛 58 | 🌐 Rust | 📅 2026-09-14 - Policy-as-code DSL from AWS for writing rules that validate JSON and YAML data, including Terraform plan JSON and HCL configurations.
-* [pike](https://github.com/jamesWoolfenden/pike) ⭐ 930 | 🐛 5 | 🌐 HCL | 📅 2026-10-05 - Scans Terraform and OpenTofu code to calculate the minimum IAM permissions required for deployment across AWS, GCP, and Azure.
-* [Tirith](https://github.com/StackGuardian/tirith) ⭐ 167 | 🐛 120 | 🌐 Python | 📅 2026-10-06 - Policy framework for Terraform stacks that evaluates infrastructure configurations against compliance policies defined in JSON.
+* [pike](https://github.com/jamesWoolfenden/pike) ⭐ 930 | 🐛 6 | 🌐 HCL | 📅 2026-10-05 - Scans Terraform and OpenTofu code to calculate the minimum IAM permissions required for deployment across AWS, GCP, and Azure.
+* [Tirith](https://github.com/StackGuardian/tirith) ⭐ 170 | 🐛 116 | 🌐 Python | 📅 2026-10-07 - Policy framework for Terraform stacks that evaluates infrastructure configurations against compliance policies defined in JSON.
 * [terraform-compliance](https://terraform-compliance.com/) - BDD-style testing framework for Terraform using Cucumber syntax to write compliance tests in natural language.
 
 ### Terraform Testing
@@ -97,7 +97,7 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 *Repositories with deliberately misconfigured Terraform for testing and benchmarking security scanners.*
 
 * [TerraGoat](https://github.com/bridgecrewio/terragoat) ⭐ 1,307 | 🐛 62 | 🌐 HCL | 📅 2025-07-13 - Bridgecrew's "vulnerable by design" Terraform repository covering common misconfigurations across AWS, Azure, and GCP.
-* [sadcloud](https://github.com/nccgroup/sadcloud) ⭐ 794 | 🐛 9 | 🌐 HCL | 📅 2023-10-14 - NCC Group's tool for spinning up intentionally misconfigured AWS infrastructure via Terraform to test detection coverage.
+* [sadcloud](https://github.com/nccgroup/sadcloud) ⭐ 793 | 🐛 9 | 🌐 HCL | 📅 2023-10-14 - NCC Group's tool for spinning up intentionally misconfigured AWS infrastructure via Terraform to test detection coverage.
 
 ## Compliance-Ready Modules
 
@@ -145,7 +145,7 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 
 ### Multi-Cloud
 
-* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,968 | 🐛 422 | 🌐 Python | 📅 2026-10-06 - Open-source security assessment tool for AWS, Azure, GCP, and Kubernetes covering CIS, PCI, HIPAA, SOC 2, ISO 27001, and more.
+* [Prowler](https://github.com/prowler-cloud/prowler) ⭐ 14,978 | 🐛 427 | 🌐 Python | 📅 2026-10-07 - Open-source security assessment tool for AWS, Azure, GCP, and Kubernetes covering CIS, PCI, HIPAA, SOC 2, ISO 27001, and more.
 * [Steampipe](https://steampipe.io/) - SQL query engine for live cloud resource data across AWS, Azure, and GCP via plugins. Used as the data layer for Powerpipe compliance benchmarks.
 * [Powerpipe](https://powerpipe.io/) - Benchmark and dashboard runner for compliance controls, using Steampipe as its data source. Runs CIS, SOC 2, HIPAA, PCI, NIST, and FedRAMP benchmarks across AWS, Azure, and GCP.
 * [CloudQuery](https://www.cloudquery.io/) - Open-source cloud asset inventory tool that syncs AWS, Azure, and GCP resources into SQL or Parquet for compliance queries and reporting.
@@ -179,8 +179,8 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 
 ### OSCAL Tooling
 
-* [Compliance Trestle](https://github.com/oscal-compass/compliance-trestle) ⭐ 283 | 🐛 41 | 🌐 Python | 📅 2026-10-05 - SDK and CLI for creating and validating OSCAL documents, part of the OSCAL Compass project.
-* [GovReady-Q](https://github.com/GovReady/govready-q) ⭐ 221 | 🐛 43 | 🌐 Python | 📅 2024-12-10 - Compliance-as-code platform for generating System Security Plans with OSCAL output. 🏛️
+* [Compliance Trestle](https://github.com/oscal-compass/compliance-trestle) ⭐ 283 | 🐛 42 | 🌐 Python | 📅 2026-10-05 - SDK and CLI for creating and validating OSCAL documents, part of the OSCAL Compass project.
+* [GovReady-Q](https://github.com/GovReady/govready-q) ⭐ 222 | 🐛 43 | 🌐 Python | 📅 2024-12-10 - Compliance-as-code platform for generating System Security Plans with OSCAL output. 🏛️
 * [Lula](https://github.com/defenseunicorns/lula) ⭐ 46 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-24 - Tool for mapping OSCAL component definitions to live infrastructure for continuous compliance validation. 🏛️
 
 ### Evidence Generation
@@ -193,8 +193,8 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 ### Drift Detection
 
 * [cloud-concierge](https://github.com/dragondrop-cloud/cloud-concierge) ⭐ 247 | 🐛 41 | 🌐 Go | 📅 2025-10-19 - Open-source tool that surfaces infrastructure drift, security findings, and cost estimates as pull requests against your Terraform codebase.
-* [atlantis-drift-detection](https://github.com/cresta/atlantis-drift-detection) ⭐ 116 | 🐛 24 | 🌐 Go | 📅 2026-10-05 - Runs Atlantis-driven `terraform plan` across every project in an `atlantis.yaml` monorepo, reports drift and untracked workspaces to Slack, and optionally triggers remediation workflows.
-* [DriftHound](https://github.com/treezio/drifthound) ⭐ 72 | 🐛 10 | 🌐 Ruby | 📅 2026-10-06 - Receives Terraform drift reports via API and provides a web dashboard with historical tracking, analytics, and Slack notifications.
+* [atlantis-drift-detection](https://github.com/cresta/atlantis-drift-detection) ⚠️ Archived - Runs Atlantis-driven `terraform plan` across every project in an `atlantis.yaml` monorepo, reports drift and untracked workspaces to Slack, and optionally triggers remediation workflows.
+* [DriftHound](https://github.com/treezio/drifthound) ⭐ 74 | 🐛 4 | 🌐 Ruby | 📅 2026-10-07 - Receives Terraform drift reports via API and provides a web dashboard with historical tracking, analytics, and Slack notifications.
 * [tfe-drift](https://github.com/slok/tfe-drift) ⭐ 40 | 🐛 10 | 🌐 Go | 📅 2026-03-30 - Automates drift-detection plans across Terraform Cloud and Terraform Enterprise workspaces with rate limiting, Prometheus metrics, and a ready-to-use GitHub Action.
 * [Digger](https://digger.dev/) - Open-source Terraform CI/CD with drift detection capabilities.
 
@@ -224,7 +224,7 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 *Remote execution platforms for Terraform and OpenTofu with policy enforcement built into the run lifecycle. Unlike the CI/CD integrations below, these replace or wrap your pipeline entirely.*
 
 * [OTF](https://github.com/leg100/otf) ⭐ 704 | 🐛 31 | 🌐 Go | 📅 2026-07-16 - Open-source alternative to Terraform Enterprise with SSO, team management, and agent support, no per-resource pricing.
-* [Terrapod](https://github.com/mattrobinsonsre/terrapod) ⭐ 260 | 🐛 28 | 🌐 Python | 📅 2026-10-06 - Open-source, self-hosted Terraform and OpenTofu automation platform with governance controls, drift detection, RBAC, and HCP Terraform API compatibility.
+* [Terrapod](https://github.com/mattrobinsonsre/terrapod) ⭐ 260 | 🐛 23 | 🌐 Python | 📅 2026-10-07 - Open-source, self-hosted Terraform and OpenTofu automation platform with governance controls, drift detection, RBAC, and HCP Terraform API compatibility.
 * [HCP Terraform and Terraform Enterprise](https://developer.hashicorp.com/terraform/cloud-docs) - HashiCorp's Terraform execution platform with native Sentinel, OPA, and Terraform policy enforcement on runs, audit logging, and team access controls, available as cloud-hosted (HCP Terraform) or self-hosted (Terraform Enterprise). 💲 🆓
 * [Spacelift](https://spacelift.io/) - Terraform and OpenTofu automation platform with built-in OPA policy evaluation on plans, drift detection, and custom policy frameworks. 💲 🆓
 * [env0](https://www.env0.com/) - Terraform and OpenTofu automation platform with OPA and Checkov policy integration, cost governance, and environment lifecycle management. 💲 🆓
@@ -239,7 +239,7 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 
 *Tools and patterns for integrating Terraform compliance checks into deployment pipelines.*
 
-* [Pre-commit Terraform](https://github.com/antonbabenko/pre-commit-terraform) ⭐ 3,784 | 🐛 31 | 🌐 Shell | 📅 2026-10-06 - Collection of Git pre-commit hooks for Terraform including linting, validation, and security scanning.
+* [Pre-commit Terraform](https://github.com/antonbabenko/pre-commit-terraform) ⭐ 3,784 | 🐛 32 | 🌐 Shell | 📅 2026-10-07 - Collection of Git pre-commit hooks for Terraform including linting, validation, and security scanning.
 * [Cloud Security Plugin](https://github.com/NordCoderd/cloud-security-plugin) ⭐ 37 | 🐛 0 | 🌐 Kotlin | 📅 2026-05-02 - JetBrains IDE plugin (IntelliJ, PyCharm, etc.) for IaC security scanning including Terraform, enabling shift-left detection in the editor.
 * [grept](https://github.com/Azure/grept) ⚠️ Archived - Extensible repository linter with HCL-defined rules and a plan/apply workflow, used by Azure Verified Modules to enforce license, file-structure, and content standards across Terraform module repos.
 * [Terraform Risk Assessor](https://github.com/Liam-Johnston/terraform-risk-assessor) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-27 - GitHub Action that analyses Terraform plan JSON and comments risk levels on pull requests.
@@ -286,11 +286,11 @@ Maintained by [Anton Babenko](https://github.com/antonbabenko), creator of [terr
 
 ## Related Awesome Lists
 
-* [awesome-tf](https://github.com/shuaibiyy/awesome-tf) ⭐ 6,609 | 🐛 15 | 📅 2026-10-03 - Curated Terraform and OpenTofu resources.
+* [awesome-tf](https://github.com/shuaibiyy/awesome-tf) ⭐ 6,611 | 🐛 6 | 📅 2026-10-06 - Curated Terraform and OpenTofu resources.
 * [awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) ⭐ 2,498 | 🐛 26 | 📅 2026-03-17 - Cloud security resources across AWS, Azure, and GCP.
 * [awesome-devsecops](https://github.com/JakobTheDev/awesome-devsecops) ⭐ 1,745 | 🐛 45 | 📅 2024-08-02 - DevSecOps tools and resources including IaC security.
 * [awesome-opa](https://github.com/open-policy-agent/awesome-opa) ⭐ 901 | 🐛 6 | 📅 2026-10-04 - Open Policy Agent tools, frameworks, and articles.
-* [awesome-oscal](https://github.com/oscal-club/awesome-oscal) ⭐ 235 | 🐛 11 | 📅 2025-06-25 - OSCAL ecosystem tools and resources.
+* [awesome-oscal](https://github.com/oscal-club/awesome-oscal) ⭐ 235 | 🐛 12 | 📅 2025-06-25 - OSCAL ecosystem tools and resources.
 
 ## Contributing
 
@@ -320,4 +320,4 @@ This list is a curation, not a collection. Every entry must clear these gates:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
