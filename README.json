@@ -56,7 +56,7 @@
                 "id": 366089286,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T17:03:24Z",
+                "last_commit": "2026-10-28T17:03:43Z",
                 "open_issues": 6,
                 "owner": "SonarSource",
                 "repo": "sonar-iac",
@@ -84,11 +84,11 @@
                 "id": 71487396,
                 "language": "Go",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-24T17:37:04Z",
-                "open_issues": 36,
+                "last_commit": "2026-10-28T02:05:41Z",
+                "open_issues": 35,
                 "owner": "terraform-linters",
                 "repo": "tflint",
-                "stars": 5845,
+                "stars": 5846,
                 "topics": [
                   "terraform",
                   "tflint"
@@ -404,8 +404,8 @@
                 "id": 526791859,
                 "language": "Python",
                 "license": "MIT-0",
-                "last_commit": "2026-10-22T13:11:27Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-28T19:02:26Z",
+                "open_issues": 15,
                 "owner": "awslabs",
                 "repo": "terraform-iam-policy-validator",
                 "stars": 355,
@@ -465,11 +465,11 @@
                 "id": 66474729,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T18:54:36Z",
-                "open_issues": 515,
+                "last_commit": "2026-10-28T16:57:45Z",
+                "open_issues": 514,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 15102,
+                "stars": 15119,
                 "topics": [
                   "aws",
                   "azure",
@@ -520,7 +520,7 @@
                 "id": 291571443,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T18:20:27Z",
+                "last_commit": "2026-10-28T18:28:46Z",
                 "open_issues": 44,
                 "owner": "oscal-compass",
                 "repo": "compliance-trestle",
@@ -712,7 +712,7 @@
                 "open_issues": 4,
                 "owner": "drifthoundhq",
                 "repo": "drifthound",
-                "stars": 75,
+                "stars": 76,
                 "topics": [
                   "drift-detection",
                   "iac",
@@ -908,7 +908,7 @@
             "open_issues": 33,
             "owner": "leg100",
             "repo": "otf",
-            "stars": 706,
+            "stars": 707,
             "topics": [
               "terraform"
             ]
@@ -927,7 +927,7 @@
             "id": 1168601310,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-27T17:10:39Z",
+            "last_commit": "2026-10-28T17:04:41Z",
             "open_issues": 14,
             "owner": "mattrobinsonsre",
             "repo": "terrapod",
@@ -1095,7 +1095,7 @@
             "open_issues": 15,
             "owner": "shuaibiyy",
             "repo": "awesome-tf",
-            "stars": 6647,
+            "stars": 6665,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1125,7 +1125,7 @@
             "open_issues": 26,
             "owner": "4ndersonLin",
             "repo": "awesome-cloud-security",
-            "stars": 2509,
+            "stars": 2510,
             "topics": [
               "aws",
               "aws-security",
@@ -1186,7 +1186,7 @@
             "open_issues": 6,
             "owner": "open-policy-agent",
             "repo": "awesome-opa",
-            "stars": 902,
+            "stars": 903,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:00:59.178Z",
+    "last_updated": "2026-10-28T19:09:05.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure.",
