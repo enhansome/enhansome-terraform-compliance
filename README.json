@@ -56,7 +56,7 @@
                 "id": 366089286,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T17:02:53Z",
+                "last_commit": "2026-11-15T17:04:45Z",
                 "open_issues": 6,
                 "owner": "SonarSource",
                 "repo": "sonar-iac",
@@ -211,7 +211,7 @@
                 "open_issues": 62,
                 "owner": "bridgecrewio",
                 "repo": "terragoat",
-                "stars": 1321,
+                "stars": 1322,
                 "topics": [
                   "aws-security",
                   "azure-security",
@@ -466,10 +466,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-13T18:34:24Z",
-                "open_issues": 491,
+                "open_issues": 492,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 15242,
+                "stars": 15244,
                 "topics": [
                   "aws",
                   "azure",
@@ -598,8 +598,8 @@
                 "id": 335331498,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T02:32:41Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-14T18:58:05Z",
+                "open_issues": 7,
                 "owner": "bridgecrewio",
                 "repo": "yor",
                 "stars": 934,
@@ -913,7 +913,7 @@
             "open_issues": 36,
             "owner": "leg100",
             "repo": "otf",
-            "stars": 708,
+            "stars": 709,
             "topics": [
               "terraform"
             ]
@@ -933,7 +933,7 @@
             "language": "Python",
             "license": "MPL-2.0",
             "last_commit": "2026-11-14T18:37:43Z",
-            "open_issues": 16,
+            "open_issues": 18,
             "owner": "mattrobinsonsre",
             "repo": "terrapod",
             "stars": 267,
@@ -980,7 +980,7 @@
             "id": 69382485,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-12T12:57:02Z",
+            "last_commit": "2026-11-15T05:44:49Z",
             "open_issues": 31,
             "owner": "antonbabenko",
             "repo": "pre-commit-terraform",
@@ -1139,7 +1139,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-09T07:32:23Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "shuaibiyy",
             "repo": "awesome-tf",
             "stars": 6681,
@@ -1172,7 +1172,7 @@
             "open_issues": 26,
             "owner": "4ndersonLin",
             "repo": "awesome-cloud-security",
-            "stars": 2519,
+            "stars": 2521,
             "topics": [
               "aws",
               "aws-security",
@@ -1201,10 +1201,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-08-02T12:52:41Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "jakob-pennington",
             "repo": "awesome-devsecops",
-            "stars": 1761,
+            "stars": 1762,
             "topics": [
               "application-security",
               "awesome",
@@ -1233,7 +1233,7 @@
             "open_issues": 9,
             "owner": "open-policy-agent",
             "repo": "awesome-opa",
-            "stars": 903,
+            "stars": 905,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1273,7 +1273,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:52:46.986Z",
+    "last_updated": "2026-11-15T19:28:45.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure.",
@@ -1285,7 +1285,7 @@
       "open_issues": 2,
       "owner": "antonbabenko",
       "repo": "awesome-terraform-compliance",
-      "stars": 149,
+      "stars": 150,
       "topics": [
         "awesome",
         "awesome-list",
