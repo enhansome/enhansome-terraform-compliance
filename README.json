@@ -56,7 +56,7 @@
                 "id": 366089286,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T17:05:26Z",
+                "last_commit": "2026-11-20T17:03:16Z",
                 "open_issues": 6,
                 "owner": "SonarSource",
                 "repo": "sonar-iac",
@@ -108,7 +108,7 @@
                 "id": 271888852,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T21:40:51Z",
+                "last_commit": "2026-11-19T22:02:37Z",
                 "open_issues": 43,
                 "owner": "aws-cloudformation",
                 "repo": "cloudformation-guard",
@@ -408,7 +408,7 @@
                 "open_issues": 14,
                 "owner": "awslabs",
                 "repo": "terraform-iam-policy-validator",
-                "stars": 357,
+                "stars": 356,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:55.137Z"
@@ -465,11 +465,11 @@
                 "id": 66474729,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T18:24:45Z",
-                "open_issues": 492,
+                "last_commit": "2026-11-20T12:58:38Z",
+                "open_issues": 495,
                 "owner": "prowler-cloud",
                 "repo": "prowler",
-                "stars": 15289,
+                "stars": 15295,
                 "topics": [
                   "aws",
                   "azure",
@@ -602,7 +602,7 @@
                 "open_issues": 8,
                 "owner": "bridgecrewio",
                 "repo": "yor",
-                "stars": 934,
+                "stars": 933,
                 "topics": [
                   "cloud",
                   "cloudformation",
@@ -875,7 +875,7 @@
                 "open_issues": 34,
                 "owner": "aws-cloudformation",
                 "repo": "aws-guard-rules-registry",
-                "stars": 146,
+                "stars": 147,
                 "topics": [
                   "aws",
                   "cfn-guard",
@@ -913,7 +913,7 @@
             "open_issues": 36,
             "owner": "leg100",
             "repo": "otf",
-            "stars": 709,
+            "stars": 708,
             "topics": [
               "terraform"
             ]
@@ -932,8 +932,8 @@
             "id": 1168601310,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-19T21:39:02Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-20T20:33:46Z",
+            "open_issues": 12,
             "owner": "mattrobinsonsre",
             "repo": "terrapod",
             "stars": 267,
@@ -1006,12 +1006,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Kumoss is a developer-first assistant and harness for day-two cloud infrastructure. It turns intent into plan-validated Terraform/OpenTofu pull requests, with automated, transparent drift correction, policy checks, and human review. Multicloud and interoperable with your existing LLMs, tools, and infrastructure ecosystem.",
+            "description": "Kumoss is a developer-first assistant and harness for day 2 cloud infrastructure. It turns intent into plan-validated Terraform/OpenTofu pull requests, with automated, transparent drift correction, policy checks, and human review. Multicloud and interoperable with your existing LLMs, tools, and infrastructure ecosystem.",
             "homepage": "https://inditextech.github.io/kumoss",
             "id": 1230709805,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T14:32:48Z",
+            "last_commit": "2026-11-20T12:44:10Z",
             "open_issues": 34,
             "owner": "InditexTech",
             "repo": "kumoss",
@@ -1139,10 +1139,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-16T07:31:16Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "shuaibiyy",
             "repo": "awesome-tf",
-            "stars": 6687,
+            "stars": 6688,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1172,7 +1172,7 @@
             "open_issues": 26,
             "owner": "4ndersonLin",
             "repo": "awesome-cloud-security",
-            "stars": 2521,
+            "stars": 2522,
             "topics": [
               "aws",
               "aws-security",
@@ -1233,7 +1233,7 @@
             "open_issues": 10,
             "owner": "open-policy-agent",
             "repo": "awesome-opa",
-            "stars": 906,
+            "stars": 905,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1273,7 +1273,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T21:52:18.953Z",
+    "last_updated": "2026-11-20T21:33:46.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure.",
